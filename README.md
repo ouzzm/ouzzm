@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/BBNYBoYa5VwtO/source.gif" align="right" width="400" height="250">
 
-### Hi there, My name is Oğuzhan and I'm a full stack developer! 👋
+### Hi there, My name is Oğuzhan and I'm a fullstack developer! 👋
 
 - 🔭 I’m currently working at ... Private Sector
 - 🌱 I’m currently teaching ... Vue.js
