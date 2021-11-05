@@ -7,8 +7,6 @@
 - 👯 I’m looking to collaborate on ... Vue.js
 - 🤔 I’m looking for help with ... GraphQL
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half gamer
 
 ### Reach out to me
 
